@@ -1,1 +1,2 @@
 # GASMAS_Data_Analysis
+Here is a Python notebook presented to analyze GASMAS spectra based in the direct signal obtained and the signal S2f, creating the GASMAS signal. The file First_usage was one of the first implementations and helps to explain the use of one function to show the spectra that will be analyzed to check if the signal is according to what we want to analyze. The Data_analaysis_complete file add some function in case that is required group files to take averages to generate error bars.
